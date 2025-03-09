@@ -1,1 +1,2 @@
-
+linier regression
+matrix korelasi
